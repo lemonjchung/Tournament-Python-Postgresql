@@ -8,11 +8,11 @@ tournament.sql - create tournament tables/view
 ## Installation
 Download the below files a sample folder.
 
-_TournamentDBconnect.pyc_ - PostgreSQL DB connection class
+__TournamentDBconnect.pyc__ - PostgreSQL DB connection class
 
-tournament.py_ - Main class
+__tournament.py__ - Main class
 
-_tournament_test.py_ - unit test class
+__tournament_test.py__ - unit test class
 
 ## Getting Started
 
