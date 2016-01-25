@@ -2,8 +2,9 @@
 Full Stack Web Developer - Tournament developed by Python and Postgresql
 
 ## Database
-createdb.sql - create tournament database
-tournament.sql - create tournament tables/view
+__createdb.sql__ - create tournament database<br>
+
+__tournament.sql__ - create tournament tables/view
 
 ## Installation
 Download the below files a sample folder.
