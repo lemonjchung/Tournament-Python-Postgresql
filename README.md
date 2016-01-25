@@ -19,7 +19,7 @@ __tournament_test.py__ - unit test class
 
 ```
 psql createdb.sql
-psql tournament.sql
+psql tournament -f tournament.sql
 
 python tournament_test.py
 ```
